@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+instance/
+.env
+
+# Firebase secret
+firebase-key.json
+
+# Uploaded images
+static/uploads/
